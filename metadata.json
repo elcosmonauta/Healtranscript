@@ -1,0 +1,7 @@
+{
+  "name": "Healtpher",
+  "description": "Offline-first clinical dictation and reporting tool for healthcare professionals.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
